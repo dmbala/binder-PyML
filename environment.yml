@@ -29,3 +29,24 @@ dependencies:
   - Pillow
   - pandas>=1.0.1
   - pandas-datareader
+  - pytables
+  - scikit-learn>=0.22.1
+  - scikit-image>=0.15.0
+  - snakeviz
+  - ujson
+  - pip
+  - s3fs
+  - fastparquet
+  - dask-ml
+  - ipywidgets>=7.5
+  - cachey
+  - python-graphviz
+  - zarr
+  - numba
+  - pympler
+  - memory_profiler
+  - dask-xgboost
+  - dask-searchcv
+  - matplotlib
+  - seaborn
+  - plotly
