@@ -1,7 +1,7 @@
 # binder-PyML
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](#https://mybinder.org/v2/gh/dmbala/binder-PyML/main)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmbala/binder-PyML/main)
 
 A Binder-compatible repo with an `environment.yml` file.
 
